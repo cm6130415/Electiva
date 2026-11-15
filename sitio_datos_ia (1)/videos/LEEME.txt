@@ -1,0 +1,7 @@
+Coloca aqui el video de fondo de la seccion "Integra con tu stack tecnologico".
+
+Nombre del archivo:  integracion-bg.mp4
+Ruta final:          videos/integracion-bg.mp4
+
+Opcional (mejor compresion en navegadores modernos): integracion-bg.webm
+Recomendado: 1920x1080, sin audio, 10-20 s en bucle, menos de 8 MB.
